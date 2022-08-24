@@ -1,4 +1,4 @@
-package com.shvetsov.leetcode.concatenationOfArray1929;
+package com.shvetsov.leetcode.concatenationofarray1929;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.shvetsov.leetcode.runningSumOf1dArray1480;
+package com.shvetsov.leetcode.runningsumofarray1480;
 
 //Runtime: 0 ms, faster than 100.00%
 class Solution {
