@@ -1,4 +1,4 @@
-package com.shvetsov.leetcode.buildArrayFromPermutation1920;
+package com.shvetsov.leetcode.buildarrayfrompermutation1920;
 
 import java.util.Arrays;
 import java.util.List;

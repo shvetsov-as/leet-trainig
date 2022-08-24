@@ -1,4 +1,4 @@
-package com.shvetsov.leetcode.concatenationOfArray1929;
+package com.shvetsov.leetcode.concatenationofarray1929;
 
 //Runtime: 1 ms, faster than 98.79%
 public class Solution {
