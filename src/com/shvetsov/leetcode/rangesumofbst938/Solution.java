@@ -1,5 +1,7 @@
 package com.shvetsov.leetcode.rangesumofbst938;
 
+import com.shvetsov.leetcode.TreeNode;
+
 import java.util.Stack;
 
 /**
