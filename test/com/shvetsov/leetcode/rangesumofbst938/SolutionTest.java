@@ -1,5 +1,6 @@
 package com.shvetsov.leetcode.rangesumofbst938;
 
+import com.shvetsov.leetcode.TreeNode;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
